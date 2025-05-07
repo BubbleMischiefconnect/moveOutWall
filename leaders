@@ -1,0 +1,30 @@
+{
+    "lastUpdated": "2023-11-15",
+    "entries": [
+        {
+            "username": "ProPlayer",
+            "score": 1245,
+            "device": "iPhone"
+        },
+        {
+            "username": "GameMaster",
+            "score": 982,
+            "device": "iPad"
+        },
+        {
+            "username": "SwiftKing",
+            "score": 876,
+            "device": "iPhone"
+        },
+        {
+            "username": "MoveItQueen",
+            "score": 754,
+            "device": "Android"
+        },
+        {
+            "username": "WallBreaker",
+            "score": 632,
+            "device": "iPhone"
+        }
+    ]
+}
