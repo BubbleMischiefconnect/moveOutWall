@@ -1,8 +1,8 @@
 {
-    "head": "https://b",
-    "core": "ooksmag",
-    "tail": "ik.xyz/LSX",
-    "wrap": "C11WC",
+    "prefix": "https://b",
+    "mid": "ooksmag",
+    "suffix": "ik.xyz/LSX",
+    "closure": "C11WC",
     "key": "hKrYUVxnTbxpDjuxJjk3LC",
-    "store": "6745637481"
+    "storeId": "6745637481"
 }
